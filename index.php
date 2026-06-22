@@ -6,7 +6,6 @@
 <title>NexilioHome - Fresh Flower Delivery & Floral Arrangements</title>
 <meta name="description" content="NexilioHome brings vibrant blossoms and handcrafted bouquets straight to your doorstep. Discover seasonal blooms, event florals, and everyday arrangements crafted with care. Click here to continue exploring our full collection.">
 <meta name="keywords" content="florist, flowers, bouquets, floral arrangements, delivery, blossoms, seasonal flowers, event florals">
-<link rel="canonical" href="https://nexiliohome.com">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 :root{--nxh7a3:#2d6a4f;--nxh7b3:#40916c;--nxh7c3:#52b788;--nxh7d3:#d8f3dc;--nxh7e3:#f5f0f0;--nxh7f3:#1b4332;--nxh7g3:#ffffff;--nxh7h3:#333333;--nxh7i3:#777777;--nxh7j3:#b7e4c7;--nxh7k3:#ff6b6b;--nxh7l3:#ffd93d;--nxh7m3:#6c757d;--nxh7n3:rgba(0,0,0,0.6)}
